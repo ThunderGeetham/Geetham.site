@@ -1,1 +1,51 @@
-# ThunderGeetham-s-site
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" href="https://pbs.twimg.com/media/Fr_LDIMXsAYjbN6?format=png&name=small" type="image/icon type">
+<title>Geetham</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+    img {
+        width:200px;
+        height:200px;
+    }
+
+</style>
+</head>
+<body>
+<table>
+<tr>
+    <td><img src="https://pbs.twimg.com/media/Fr_Im2KakAIj7R5?format=png&name=small" alt="pic"></td>
+    <td><h1>Geetham</h1>
+        <h3>I am a Coder, Youtuber and a Gamer</h3></td>
+</tr>
+</table>
+<hr>
+<h3>Study Progress</h3>
+<p></p>
+<h3>Skills:</h3>
+<table>
+    <tr>
+        <td>
+            <p>Web development ⭐⭐⭐⭐</p>
+            <p>app development ⭐⭐⭐⭐</p>
+            <p>recording ⭐⭐⭐⭐</p>
+    </td>
+    <td>
+            <p>painting ⭐⭐⭐⭐⭐</p>
+            <p>Editing ⭐⭐⭐</p>
+            <p>Gaming ⭐⭐⭐⭐⭐</p>
+        </td>
+    </tr>
+</table>
+<hr>
+<button onclick="document.location='contact.html'">contact me <i class="fa fa-phone"></i></button>
+<button onclick="document.location='channal.html'">Youtube <i class="fa fa-youtube-play"></i></button>
+<button name="h" id="h" onclick="window.location.href='https://twitter.com/THUNDER72095154'">Twitter <i class="fa fa-twitter"></i></button>
+
+
+</body>
+</html> 
+</html>
